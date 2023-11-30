@@ -26,7 +26,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+<a href=""https://www.linkedin.com/in/regis-costa-pedro-769a36282/>  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  /> </a>
 </div>
 
 ###
