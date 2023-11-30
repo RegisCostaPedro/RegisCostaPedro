@@ -9,37 +9,66 @@
 - 📚Atualmente cursando Técnico em Informática, na Escola CEDUP Abílio Paulo.
 -  ⚡no meu tempo livre procuro estudar sobre programação
 
-
-## 🌐 Socials:
+<br>
+<h1></h1>
+<br>
 <div align="center">
-  <a href="regiscostapedro0705@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://instagram.com/regiss.w?igshid=OGQ5ZDc2ODk2ZA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/regis-costa-pedro-769a36282/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div> 
-
-# 💻 Language and tools:
-<div align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=RegisCostaPedro&show_icons=true&theme=radical" height="175" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegisCostaPedro&layout=compact&theme=radical" height="175"  /> 
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RegisCostaPedro&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RegisCostaPedro&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RegisCostaPedro&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<br clear="both">
 
----
-[![](https://visitcount.itsvg.in/api?id=RegisCostaPedro&icon=5&color=9)](https://visitcount.itsvg.in)
+<h2 align="left">Conecte-se comigo:</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<br>
+<h2 align="left">Ferramentas que tenho experiência:</h2>
+<div align="left">
+</div>
+
+
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+<br clear="both">
+
+<h2 align="left">Ferramentas já estudadas:</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+</div>
+
+###
+
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
