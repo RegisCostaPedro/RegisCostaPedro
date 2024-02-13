@@ -1,12 +1,12 @@
+ <img  width="100%" height="20px" src="https://64.media.tumblr.com/a954ff6b2d8742d0c53f2d2c5d4ebfc0/de79baa0a4f7ad1d-63/s1280x1920/ed64d76e06a2df16c34fa149eb5f7f5caed76fea.gifv" alt="">
 
-
-### <h1 align="center">OLÁ MUNDO  <img height="20px" src="https://media4.giphy.com/media/XHRNjWHnJo0Am1aP0L/giphy.gif" alt="">!</h1>
+### <h1 align="center">OLÁ MUNDO  <img height="35px" src="https://media4.giphy.com/media/XHRNjWHnJo0Am1aP0L/giphy.gif" alt="">!</h1>
 
 <p>💫 About Me:</p>
 - Me chamo Regis Costa Pedro, Sou de Santa Catarina, Brasil. <br>
 - Atualmente cursando Técnico em Informática, na Escola CEDUP Abílio Paulo. <br>
-- No meu tempo livre procuro estudar sobre programação. <br>
-- No momento estou estudando JAVA com Spring Boot.
+- Estou estudando programação na parte de back-end. <br>
+- No momento estou estudando JAVA e Spring Boot.
 
 <br>
 <h1></h1>
@@ -38,13 +38,22 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+
+
+ 
 </div>
 
 <br clear="both">
@@ -60,14 +69,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+
 </div>
 
-###
+</div>
 
-###
+
 
 
 
