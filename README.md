@@ -6,7 +6,7 @@
 - Me chamo Regis Costa Pedro, Sou de Santa Catarina, Brasil. <br>
 - Atualmente cursando Técnico em Informática, na Escola CEDUP Abílio Paulo. <br>
 - Estou estudando programação na parte de back-end. <br>
-- No momento estou estudando JAVA e Spring Boot.
+- No momento estou estudando Java e Spring Boot.
 
 <br>
 <h1></h1>
