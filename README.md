@@ -1,6 +1,6 @@
 
 
-### <h1 align="center">OLÁ MUNDO  <img height="35px" src="https://media4.giphy.com/media/XHRNjWHnJo0Am1aP0L/giphy.gif" alt="">!</h1>
+### <h1 align="center">OLÁ MUNDO!  <img height="35px" src="https://media4.giphy.com/media/XHRNjWHnJo0Am1aP0L/giphy.gif" alt=""></h1>
 
 <p>💫 About Me:</p>
 - Me chamo Regis Costa Pedro, Sou de Santa Catarina, Brasil. <br>
