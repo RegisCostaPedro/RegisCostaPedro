@@ -6,7 +6,7 @@
 - Me chamo Regis Costa Pedro, Sou de Santa Catarina, Brasil. <br>
 - Atualmente cursando Técnico em Informática, na Escola CEDUP Abílio Paulo. <br>
 - Estou estudando programação focando na parte de back-end. <br>
-- No momento estou estudando o framework Spring Boot.
+- No momento estou estudando o JavaScript e o framework NodeJs.
 
 <br>
 <h1></h1>
@@ -42,10 +42,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="javascript logo"  />
+  <img width="12" />
+    <span>‎ ‎ ‎‎ ‎ ‎ ‎  ‎‎ ‎  </span>
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+ <span>‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  </span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -65,8 +72,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
