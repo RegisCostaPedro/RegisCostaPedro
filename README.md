@@ -1,4 +1,4 @@
- <img  width="100%" height="20px" src="https://64.media.tumblr.com/a954ff6b2d8742d0c53f2d2c5d4ebfc0/de79baa0a4f7ad1d-63/s1280x1920/ed64d76e06a2df16c34fa149eb5f7f5caed76fea.gifv" alt="">
+
 
 ### <h1 align="center">OLÁ MUNDO  <img height="35px" src="https://media4.giphy.com/media/XHRNjWHnJo0Am1aP0L/giphy.gif" alt="">!</h1>
 
