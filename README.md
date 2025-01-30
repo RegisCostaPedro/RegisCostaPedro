@@ -4,9 +4,10 @@
 
 <p>💫 About Me:</p>
 - Me chamo Regis Costa Pedro, Sou de Santa Catarina, Brasil. <br>
-- Atualmente cursando Técnico em Informática, na Escola CEDUP Abílio Paulo. <br>
+- Sou formado em Técnico em Informática, na Escola CEDUP Abílio Paulo. <br>
+- Atualmente estou cursando Engenharia de Software na UNISATC. <br>
 - Estou estudando programação focando na parte de back-end. <br>
-- No momento estou estudando o JavaScript e o framework NodeJs.
+
 
 <br>
 <h1></h1>
