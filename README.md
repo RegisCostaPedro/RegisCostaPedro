@@ -65,14 +65,16 @@
 
 <br clear="both">
 
-<h2 align="left">Ferramentas já estudadas:</h2>
+<h2 align="left">Ferramentas já utilizadas ou estudadas:</h2>
 
 ###
 
 <br clear="both">
 
 <div align="left">
- 
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
+  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
